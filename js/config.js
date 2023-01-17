@@ -32,15 +32,6 @@ const CONFIG = {
       icon: 'drive',
       quickLaunch: false,
     },
-    {
-      category: 'General',
-      name: 'Discord',
-      key: 'dc',
-      url: 'https://discord.com/app',
-      color: '#7289da',
-      icon: 'discord',
-      quickLaunch: false,
-    },
 
 
     {
@@ -116,6 +107,23 @@ const CONFIG = {
       icon: 'instagram',
       quickLaunch: true,
     },
+    {
+      category: 'Other',
+      name: 'Notes',
+      key: 'n',
+      url: 'https://keep.google.com',
+      color: 'linear-gradient(45deg, #ffcc3f)',
+      quickLaunch: true,
+    },
+    {
+      category: 'Other',
+      name: 'Canvas',
+      key: 'ca',
+      url: 'https://canvas.msstate.edu',
+      color: 'linear-gradient(45deg, #7a1711)',
+      quickLaunch: true,
+    },
+               
   ],
 
   /**
