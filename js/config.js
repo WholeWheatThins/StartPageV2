@@ -42,7 +42,7 @@ const CONFIG = {
       search: '/search?q={}',
       color: 'linear-gradient(135deg, #2b2b2b, #3b3b3b)',
       icon: 'github',
-      quickLaunch: true,
+      quickLaunch: false,
     },
     {
       category: 'Programming',
@@ -52,7 +52,7 @@ const CONFIG = {
       search: '/search?q={}',
       color: 'linear-gradient(135deg, #53341C, #F48024)',
       icon: 'stackoverflow',
-      quickLaunch: true,
+      quickLaunch: false,
     },
 
 
@@ -96,7 +96,7 @@ const CONFIG = {
       search: '/search?q={}&src=typed_query',
       color: 'linear-gradient(135deg, #1DA1F2, #19608F)',
       icon: 'twitter',
-      quickLaunch: true,
+      quickLaunch: false,
     },
     {
       category: 'Other',
@@ -105,7 +105,7 @@ const CONFIG = {
       url: 'https://www.instagram.com',
       color: 'linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d)',
       icon: 'instagram',
-      quickLaunch: true,
+      quickLaunch: false,
     },
     {
       category: 'Other',
