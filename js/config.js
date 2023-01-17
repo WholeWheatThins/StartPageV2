@@ -112,7 +112,7 @@ const CONFIG = {
       name: 'Notes',
       key: 'n',
       url: 'https://keep.google.com',
-      color: 'linear-gradient(45deg, #ffcc3f)',
+      color: 'linear-gradient(45deg, #ffcc3f, #ffcc3f)',
       quickLaunch: true,
     },
     {
@@ -120,7 +120,7 @@ const CONFIG = {
       name: 'Canvas',
       key: 'ca',
       url: 'https://canvas.msstate.edu',
-      color: 'linear-gradient(45deg, #7a1711)',
+      color: 'linear-gradient(45deg, #7a1711, #7a1711)',
       quickLaunch: true,
     },
                
