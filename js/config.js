@@ -32,6 +32,14 @@ const CONFIG = {
       icon: 'drive',
       quickLaunch: false,
     },
+    {
+      category: 'General',
+      name: 'Calendar',
+      key: 'c',
+      url: 'https://calendar.google.com',
+      color: 'linear-gradient(45deg, #FFD04B, #1EA362, #4688F3)',
+      quickLaunch: false,
+    },
 
 
     {
